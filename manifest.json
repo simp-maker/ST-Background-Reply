@@ -1,0 +1,11 @@
+{
+    "display_name": "Background Reply (백그라운드 답장)",
+    "loading_order": 20,
+    "requires": [],
+    "optional": [],
+    "js": "index.js",
+    "css": "style.css",
+    "author": "user + Claude",
+    "version": "1.2.0",
+    "homePage": ""
+}
